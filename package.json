@@ -13,6 +13,6 @@
     "canvas": "^3.1.2",
     "discord.js": "^14.21.0",
     "dotenv": "^17.2.0",
-    "rainstack": "^4.0.0-beta.3"
+    "rainstack": "^4.0.0"
   }
 }
